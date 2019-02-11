@@ -1,17 +1,14 @@
-# PIVX-Wallet
+# Lytix-Wallet
 
-![alt text](https://github.com/PIVX-Project/PIVX-Android/blob/master/banner/Feature%20Image.jpg)
-
-Welcome to the PIVX mobile wallet for android!
-
+Welcome to the Lytix mobile wallet for android!
 
 This project contains several sub-projects:
 
 app: The Android app itself. This is probably what you're searching for.
 
-pivtrumj: Stratum protocol implementation.
+lyttrumj: Stratum protocol implementation.
 
-pivx-core-0.14.3-12.1: pivxj.
+lytix-core-0.14.3-12.1: lytixj.
 
 You can build all sub-projects at once using Gradle:
 
@@ -20,11 +17,11 @@ gradle clean build
 
 ### Cloning repository.
 
-Use git clone --recurse-submodules https://github.com/<PIVX or furszy>/PIVX-Android.git
+Use git clone --recurse-submodules https://github.com/lytixchain/Lytix-Android.git
   
 #### or
 
-Use git clone https://github.com/<PIVX or furszy>/PIVX-Android.git
+Use git clone https://github.com/lytixchain/Lytix-Android.git
   
 git submodule init
 
